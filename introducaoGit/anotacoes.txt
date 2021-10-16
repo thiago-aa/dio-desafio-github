@@ -1,0 +1,6 @@
+comando para download do Git: sudo apt-get install git-all
+git clone [link do repositorio] - comando para clonar um repisitório remoto
+git status - mostra os status do git
+git add . - adiciona todas as modificações
+git commit -m "mensagem do commit" - commita as alterações stageds
+git push origin main - manda para a nuvem 
