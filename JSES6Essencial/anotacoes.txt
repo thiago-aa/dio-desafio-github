@@ -8,3 +8,15 @@ Tipos e Variáveis
  - Object
  - Function
  - Array
+
+ POO
+  - Herança
+    - baseada em protótipos
+    - prototype
+    - __proto__
+    - constructor
+  
+  - Classes
+    - ES6
+    - Simplificação da herança de protótipos
+    - Utiliza a palavra chave "class"
