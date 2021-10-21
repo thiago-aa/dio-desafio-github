@@ -20,3 +20,12 @@ Tipos e Variáveis
     - ES6
     - Simplificação da herança de protótipos
     - Utiliza a palavra chave "class"
+
+  Design Pattern
+   - Soluções generalistas para problemas recorrentes
+   - Patterns mais utilizados no js:
+    - Factory: Todas as funções que retornam um objeto sem utilizar a palavra chave new
+    - Singleton: o objetivo é criar uma unica instância de uma função construtora e retorná-la toda vez em que for necessário utilizá-la. Ex.: jquery
+    - Decorator: recebe uma outra função como parâmetro e estende seu comportamento sem modificá-la explicitamente. 
+    - Observer: A instância (subscriber) mantém uma coleção de objetos (observers) e notifica todos eles quando ocorrem mudanças no estado.
+    - Module: possibilita organizar melhor o código, sem a necessidade de expor variáveis iguais 
