@@ -1,0 +1,2 @@
+- Types: semelhantes aos structs do C
+- Interfaces: contratos para voce implementar as classes
